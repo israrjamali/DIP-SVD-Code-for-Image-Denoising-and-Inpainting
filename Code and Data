@@ -1,10 +1,10 @@
-## 🔗 Related Work
+Related Work.
 
 This repository references the code and data from the following release:
 
-[📦 DIP-SVD Dataset & Code Release (375 MB)](https://github.com/israrjamali/DIP-SVD-Code-for-Image-Denoising-and-Inpainting/releases/tag/v1.0)
+https://github.com/israrjamali/DIP-SVD-Code-for-Image-Denoising-and-Inpainting/releases/tag/v1.0
 
 Includes:
 - Code and results for image **denoising** and **inpainting**
-- Implemented with **Deep Image Prior + SVD**
+- Implemented with **Deep Image Prior + SVD-Pooling**
 - Optimizers: **Adam**, **DiffGrad**, and **Apollo**
